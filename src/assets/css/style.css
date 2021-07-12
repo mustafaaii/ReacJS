@@ -1,0 +1,16 @@
+.LogoText
+{
+    color: azure;
+}
+
+.HeaderLink
+{
+    text-decoration: none;
+    color: azure;
+}
+
+.HeaderLink:hover
+{
+    text-decoration: none;
+    color: rgb(194, 194, 194);
+}
